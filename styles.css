@@ -1,0 +1,31 @@
+
+
+body {
+  background-image: url('images/computer.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#centerimage {
+  position:absolute;
+  left: 390px;
+  top: 200px;
+}
+#searchimage{
+  position:absolute;
+  left: 1080px;
+  top: 575px;
+}
+
+#crossimage{
+position: absolute;
+left: 1245px;
+top: 115px;
+}
+
+#textimage{
+  position: absolute;
+  left: 450px;
+  top: 565px;
+}
